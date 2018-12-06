@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Opener Doors</string>
+
+    <!--login fragment-->
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="authorization">Авторизация</string>
+
+    <!--list item-->
+    <string name="open">Открыть</string>
+    <string name="stub">Домофон №1</string>
+</resources>
